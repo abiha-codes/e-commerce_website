@@ -5,7 +5,7 @@ A modern and user-friendly e-commerce website designed to provide a smooth and e
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://e-commerce-e-commerce-website.vercel.app/)
+![Live Demo](https://e-commerce-e-commerce-website.vercel.app/)
 
 ## 📸 Screenshots
 
